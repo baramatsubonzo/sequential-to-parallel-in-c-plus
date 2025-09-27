@@ -7,7 +7,7 @@ double **A, **B, **C;
 
 int main(int argc, char* argv[])
 {
-    long long N = 1500;
+    long long N = 2000;
 
     A = new double*[N];
     B = new double*[N];
